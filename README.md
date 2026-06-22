@@ -1,3 +1,9 @@
+## 🎥 Vídeo de demonstração
+
+[Assista no YouTube](link)
+
+---
+
 # Trabalho Final Fuzzy — C213
 
 Controle automático de **luminosidade** de um ambiente usando lógica fuzzy, implementado em um ESP32.
